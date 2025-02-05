@@ -1,6 +1,5 @@
 
 ## SIMPLE REACT & NODE.JS FULL STACK APPLICATION
-```markdown
 
 This project is a very simple full-stack web application built with React on the front-end and Node.js/Express on the back-end.
 It demonstrates a simple full-stack setup with client-server interaction.
